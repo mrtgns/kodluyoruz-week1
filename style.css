@@ -1,0 +1,24 @@
+.posts{
+    display: flex ;
+    gap: 25px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+   
+}
+.container{
+    border-style: solid;
+    box-sizing: border-box;
+    width: 25%;
+}
+
+.search{
+    border-color: #e1e10e;
+    border-width: 3px;
+    width: 33%;
+
+}
+
+.input{
+    text-align: center;
+}
